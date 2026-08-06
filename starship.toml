@@ -143,6 +143,7 @@ Kali = "  "
 Raspbian = " "
 AlmaLinux = "  "
 Arch="󰣇 "
+Debian=" "
 
 [python]
 symbol = ' '
