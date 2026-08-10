@@ -8,3 +8,4 @@
 !.gitignore
 !README.md
 !starship.toml
+!install.sh
