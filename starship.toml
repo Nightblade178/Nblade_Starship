@@ -154,3 +154,7 @@ symbol = ' '
 
 [golang]
 symbol = ' '
+
+[java]
+symbol = ' '
+style = 'bright-yellow'
