@@ -145,6 +145,7 @@ AlmaLinux = "  "
 Arch="󰣇 "
 Debian=" "
 Ubuntu = "  "
+CachyOS = "󰣇  "
 
 [python]
 symbol = ' '
